@@ -1,0 +1,51 @@
+{
+    "primary_color": "#3498db",
+    "secondary_color": "#2c3e50",
+    "typography": "Montserrat",
+    "hero_text": "Révolutionnez votre espace intérieur",
+    "hero_subtext": "Des travaux de rénovation de qualité pour transformer votre environnement",
+    "gsap_stagger": 0.2,
+    "spline_scene_id": "construction",
+    "business_name": "J.P. RENOV",
+    "reviews": [
+        {
+            "author": "Sophie L.",
+            "rating": 5,
+            "text": "J'ai fait appel à J.P. RENOV pour rénover mon appartement et je suis absolument ravie du résultat ! L'équipe a été très professionnelle et a respecté les délais."
+        },
+        {
+            "author": "Pierre M.",
+            "rating": 5,
+            "text": "J'ai eu besoin de faire des travaux de peinture et de plomberie, et J.P. RENOV a fait un travail impeccable. Je recommande vivement cette entreprise !"
+        },
+        {
+            "author": "Aurélie D.",
+            "rating": 5,
+            "text": "J'ai demandé à J.P. RENOV de me rénover ma maison et je suis très satisfaite du résultat. L'équipe a été très réactive et a su répondre à mes besoins."
+        }
+    ],
+    "services": [
+        {
+            "title": "Rénovation Intérieure",
+            "description": "Repensez vos espaces de vie avec des matériaux de qualité et un design moderne.",
+            "icon": "🏠",
+            "image_keyword": "interior design, renovation, home decor",
+            "image_url": "/uploads/lead_57_service_0.jpg"
+        },
+        {
+            "title": "Ravalement de Façade",
+            "description": "Redonnez un coup de jeune à l'extérieur de votre bâtiment avec nos enduits spécialisés.",
+            "icon": "🧱",
+            "image_keyword": "facade renovation, exterior design, building",
+            "image_url": "/uploads/lead_57_service_1.jpg"
+        },
+        {
+            "title": "Aménagement Sur-Mesure",
+            "description": "Des solutions personnalisées pour optimiser chaque mètre carré de votre habitat.",
+            "icon": "📏",
+            "image_keyword": "carpentry, tools, wood",
+            "image_url": "/uploads/lead_57_service_2.jpg"
+        }
+    ],
+    "lead_id": 57
+}
